@@ -2,6 +2,11 @@
 ### Rizal Razuwan Profile
 ![Header](./github.png)
 
+- I come from background engineering.
+- Then , I pursuit AI, ML, and etc. 
+- Also web3 developer
+
+
 ### Tech Stack
 ### Language
 <p align="center">
@@ -79,6 +84,5 @@
 	/></a>
 </p>
 
-- Currently, my role as Full Stack Developer
 
 <!--END_SECTION-->
