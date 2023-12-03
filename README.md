@@ -40,14 +40,6 @@
   
 </p>
 
-#### AI
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,r,pytorch,matlab," />
-  </a>
-</p>
-
-
 ### Social
 
 <p align="center">
