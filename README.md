@@ -2,9 +2,7 @@
 ### Rizal Razuwan Profile
 ![Header](./github.png)
 
-- I come from background engineering.
-- Then , I pursuit AI, ML, and etc. 
-- Also web3 developer
+
 
 
 ### Tech Stack
@@ -48,8 +46,6 @@
     <img src="https://skillicons.dev/icons?i=tensorflow,r,pytorch,matlab," />
   </a>
 </p>
-
-## - Open AI, Llama, Lancgchain, HuggingFace
 
 
 ### Social
