@@ -32,7 +32,7 @@
   </a>
 </p>
 
-#### DevOps & TDD
+#### DevOps
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ansible,aws,azure,cloudflare,gcp,git,gitlab,heroku,grafana,ipfs,jenkins,kafka,kubernetes,vercel,redis,solidity" />
