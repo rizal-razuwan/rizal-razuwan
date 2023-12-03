@@ -6,21 +6,21 @@
 
 
 ### Tech Stack
-### Language
+#### Language
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,rust,go,ruby,rails,linux,bash,html,css,pug&theme=dark" />
   </a>
 </p>
 
-### FE
+#### FE
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nextjs,react,nuxtjs,vue,tailwind,threejs,figma" />
   </a>
 </p>
 
-### BE
+#### BE
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=django,express,flask,nest,fastapi,graphql,nodejs,apollo," />
@@ -32,7 +32,7 @@
   </a>
 </p>
 
-### DevOps & TDD
+#### DevOps & TDD
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ansible,aws,azure,cloudflare,gcp,git,gitlab,heroku,grafana,ipfs,jenkins,kafka,kubernetes,vercel,redis,solidity" />
@@ -40,7 +40,7 @@
   
 </p>
 
-### AI
+#### AI
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=tensorflow,r,pytorch,matlab," />
